@@ -36,3 +36,8 @@
 .flowers {
 	text-align: center;
 }
+
+a:hover,
+a:visited {
+	color: #000;
+}
