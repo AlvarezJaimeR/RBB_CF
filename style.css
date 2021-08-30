@@ -46,3 +46,7 @@ img {
 .container {
 	max-width: 10000px !important;
 }
+
+.title {
+	padding: 50px;
+}
